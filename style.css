@@ -18,7 +18,11 @@ ul li:hover {
     background-color: lightblue;
 }
 
-.header {
+.header > h1{
     font-size: large;
     text-align: center;
+}
+
+.header {
+    background-color: yellow;
 }
