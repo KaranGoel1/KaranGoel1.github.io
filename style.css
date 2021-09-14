@@ -56,8 +56,8 @@ a {
     background-color: gray;
 }
 
-@media only screen and (max-width: 414px) {
+@media only screen and (max-width: 600px) {
     .tablebkgrd {
-        background-color: lightgreen;
+        background-color: orange;
     }
 }
