@@ -3,7 +3,7 @@ ul li{
     color: white;
     list-style-type: none;
     display: inline-block;
-    width: 12%;
+    width: 9%;
     align-content: center;
     text-align: center;
     font-size: medium;
@@ -20,6 +20,7 @@ ul li:hover {
 
 h1{
     text-align: center;
+    font-size: xx-large;
 }
 
 table {
