@@ -47,3 +47,7 @@ th, td {
     font-size: large;
     font-style: italic;
 }
+
+a:link {
+    color: blue;
+}
