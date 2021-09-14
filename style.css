@@ -3,10 +3,10 @@ ul li{
     color: white;
     list-style-type: none;
     display: inline-block;
-    width: 9%;
+    width: 10%;
     align-content: center;
     text-align: center;
-    font-size: medium;
+    font-size: large;
 }
 
 ul li:hover {
@@ -30,8 +30,10 @@ h1{
 table {
     border: 2px solid black;
     border-collapse: collapse;
+    
 }
 
 th, td {
     border: 1px solid black;
+    padding: 5px;
 }
