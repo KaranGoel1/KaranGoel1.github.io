@@ -15,5 +15,10 @@ ul li:hover {
 }
 
 .maintext {
-    background-color: royalblue;
+    background-color: lightblue;
+}
+
+.header {
+    font-size: large;
+    text-align: center;
 }
