@@ -19,6 +19,14 @@ ul li:hover {
 }
 
 h1{
-    font-size: large;
     text-align: center;
+}
+
+table {
+    border: 2px solid black;
+}
+
+th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
 }
