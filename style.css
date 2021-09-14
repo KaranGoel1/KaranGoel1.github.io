@@ -24,5 +24,6 @@ ul li:hover {
 }
 
 .header {
+    height: fit-content;
     background-color: yellow;
 }
